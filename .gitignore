@@ -1,0 +1,7 @@
+.idea/
+.settings/
+hs_err_pid*
+.project
+target/
+.classpath
+.DS_Store
